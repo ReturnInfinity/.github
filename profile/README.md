@@ -4,4 +4,4 @@ The repositories below contain all of the up-to-date code for BareMetal OS and i
 
 [GitHub Discussions](https://github.com/ReturnInfinity/BareMetal-OS/discussions)
 
-[Discord](https://discord.gg/zrnAq4Ec)
+[Discord](https://discord.gg/XKUQsXDq)
